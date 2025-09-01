@@ -1,0 +1,164 @@
+Olga Grinberg  00:34
+Hello, hello, hi, hi, hi everyone. I'm happy to be here. Thank you for inviting me for this interview.
+
+Noah Casarotto-Dinning  00:53
+Hey everyone, yeah, sorry about that. I appreciate it. Hi, Olga, how are you doing today?
+
+Olga Grinberg  00:58
+Very good. How you Noah,
+
+Noah Casarotto-Dinning  01:00
+I'm doing wonderful. Thank you so much for coming. I really appreciate
+
+Olga Grinberg  01:03
+it. Thank you for inviting me
+
+Noah Casarotto-Dinning  01:06
+absolutely, uh, you were you seem like a fantastic app again. So I feel like it'd be, it'd be a shame not to, by all means. So what was I gonna say? We're gonna get started at um, 5:05pm my co founder, Damien, is here. I'm here. I'm going to explain everything, kind of a 505 it's going to be basically like a two parter. We're going to have like, one examination that we're going to do, like one assessment, more or less, that we're going to do right now. Um, and then we're gonna and then we're gonna have a non technical, sorry, a non technical. We're gonna have a technical take home right after that, if that makes sense. So just, just to wait for everyone, um, we'll start, I mean, 30 out of 42 I
+
+Olga Grinberg  01:56
+can hear you.
+
+Noah Casarotto-Dinning  01:58
+Oh, you can't hear
+
+Olga Grinberg  01:59
+me. Well, now I can Okay, awesome. The sound fluctuates.
+
+Noah Casarotto-Dinning  02:07
+Okay. Is anyone else having issues with my sound? Damian, do you want to text me if there's
+
+Dmitry Shtainer  02:13
+issues with my sound?
+
+Noah Casarotto-Dinning  02:15
+Good on your end? Fine for you. Kuldeep, thank you very much. I appreciate it. Olga, feel free to let me know if there's any more issues. Okay, all right. Awesome, also. So you guys could use the chat, or if you want to text me personally, I put my phone number in there. Um, so my personal phone number, I mean, I use it for work all the time. So if you have any issues throughout the entire process, feel free to send me a text. Um, if you because I know sometimes it's, it's, I know we have, it's a large group interview, but the people have difficulty, and it's they're less comfortable, you know, bringing up problems in front of such a massive group. So if anyone has individual problems, they have my email. You have my email, which I'll also add to the chat, but you would have used to get here you have my email As well as my personal phone Number, if that makes
+
+Dmitry Shtainer  03:41
+okay, sorry,
+
+Noah Casarotto-Dinning  03:47
+yeah, no worries at all. So we're gonna get started at at 535. People here, I guess we're gonna get started at 505, just in case anyone else, anyone else decides to show up. And then we'll go from there, if that makes sense. And I want to if you guys have note takers. I mean, you know what? I guess that's fine. It's not a big deal. Awesome. But uh, Olga, how's your day? Doing today? You having a good
+
+Olga Grinberg  04:15
+day? Good. Yes, today is a holiday in Canada. It
+
+Noah Casarotto-Dinning  04:19
+is, it is, I'm in Montreal as well, so it's Labor Day. But I mean, you know, the day starts with labor, so I figured, why not get some work done? You know? But anyway, so we'll wait two more minutes here, and then then we'll go ahead and get started. By all means, you
+
+Olga Grinberg  05:32
+uh, well, then starting, can I ask you a question? Can you maybe talk a little bit more about the company?
+
+Noah Casarotto-Dinning  05:39
+Absolutely, that's actually a question a few people asked me as well. My co founder, I'm so what we're going to do at 505? I'm going to go through the structure of the interview with everyone, which includes, like, a brief description, you know, of the organization, the first assessment, a Q and A period, the first assessment, the second take home, like, the explanation, the second take home assessment, as well as a Q, a period, if that makes
+
+Olga Grinberg  06:06
+sense, right? Yes, I check the website and yeah, there's not much there.
+
+Noah Casarotto-Dinning  06:15
+Yeah, I do apologize for that. I
+
+Noah Casarotto-Dinning  06:25
+Okay, all right, so guys, we'll go ahead and get started. I see that it's 505. If everyone's comfortable with it, I'm going to record the meeting. I'm gonna have a transcript recorded as well as, like, a as an as a visual recording. If anyone has a problem with that, please raise your hand and or send me a text and I'll wait two minutes if anyone, if nobody, has a problem,
+
+Olga Grinberg  06:52
+yes. Olga, yeah, because I'm not an employee, I don't want to be recorded. Excellent. Usually, people I recorded when their employees, you know? Yeah, no, what you're gonna do with this? So I'm not comfortable with the
+
+Noah Casarotto-Dinning  07:10
+Absolutely. Is it all right if we have an audio recording at that point, or
+
+Olga Grinberg  07:15
+I don't want to be reported, because I'm not an employee, I don't know people you collected here. I have no idea about your company, so it's a very unusual format, I would say, to invite so many people for an interview. I've never been in an interview like this before. Usually it's normal, like maybe two, three people. But here I
+
+Dmitry Shtainer  07:39
+me too. It's my personal scenario.
+
+Noah Casarotto-Dinning  07:44
+Yeah, by all means. So I'll go ahead and I'll give so that's fine. We don't have to record it at all. I totally understand. What was I going to say? So at that point, what was I going to say? We don't. We don't need to. I won't record the interview. I mean, it's definitely why we ask. I do apologize for the unorthodox format of the interview. By all means, it's something that we're doing because, you know, we we really want to be able to have the opportunity to interview as many people as possible, because I recognize that a CV is not always representative of someone's abilities. So I feel like, you know, getting being able to get through as many candidates as possible, and kind of
+
+Olga Grinberg  08:24
+like, may interrupt you one question. Maybe people can say, Who's the hiring manager and who are the people like the other people, other employees are they like people who you want to interview at the same time? Because I don't understand, there are too many people and the rules are completely unclear.
+
+Noah Casarotto-Dinning  08:44
+Yeah. So Olga, what was I going to say? Do you mind if I get through some of the questions here, and I'll give the structure of the meeting, and then I'll give the structure of the meeting, and from there, if you have any questions after the structure of the meeting, then we can kind of proceed from there, because I do want to, I do apologize, but I do kind of want to get through the beginning of the interview, if that's all right, awesome. Thank you very much. So just to start, I'm going to go for the the meeting schedule, you know. So why? Why we have so many people as for August question, and what was I going to say? You know what we're going to do here and what the format of this interview is, so I recognize it's an unorthodox interview. So what was I going to say? To start, I'm going to give a brief explanation of the company as well as I'm going to kind of explain the interview process, and I'm going to we have two parts to this interview today. One is an assessment that we're going to be doing with everyone here. Secondly, is going to be a take home technical interview, okay, that you're going to have 48 hours to complete the first assessment that we're going to be doing is going to be in a group with everyone here, where I'm going to send you a link. Everyone is going to be completing the assessment at the exact same time. This allows for, you know, a fair evaluation process across the board, so that everyone is in the same environment at the exact same time, they have access to the same materials, so that it's fair and standardized by all means, once that is completed, you're going to be sending us the results of your assessment. And then after we've, you know, acquired the results of your assessment, we're going to move on to the second phase of the interview, where Damian, my co founder, is going to be explaining what was I going to say? He's going to be explaining the the technical interview, if that makes sense. So for those of you who don't know what I am, who I am, I'm, I'm the hiring manager. My name is Noah. I'm the CEO of a startup called Arvo. I'm the guy that you guys have been communicating with over email. I wrote the job posting. Well, Damian and I definitely, we both wrote the job postings. And this is kind of like a group interview for two separate roles. One is the junior engineering position, and one is the senior engineering position, because, and there's like, kind of, like, the software engineering too, which is correlated with the senior engineering position. Is that clear? Does anyone have any questions? And if nobody has any, I'm if nobody has any questions, I'll go ahead and go into the first talking about the first assessment that we're gonna be doing as a group. Does that make sense? Awesome. So some people have questions. By the way, I'm going to ask everyone, please turn off your microphones. No worries. Olga, I appreciate it. Thank you very much. That's okay. That is the first time I've ever had that. But all right,
+
+Dmitry Shtainer  11:45
+sorry, I will stay for a while. I was do about the same thing that Olga just did.
+
+Noah Casarotto-Dinning  11:55
+Thank you, Dmitry, no worries. So we'll go ahead and if everyone could turn off their microphones. I would really appreciate that so we can just go forward with the process as quickly as possible. Quickly as possible. We don't have a lot of time. Dmitry, thank you very much. I do appreciate it, though, Karthik,
+
+Speaker 1  12:09
+you want to go for it? Yeah? So the role seems to be for a software engineer and based out of Montreal, Canada, right? Yeah. So
+
+Noah Casarotto-Dinning  12:15
+questions about the jobs, so we're going to be answering right now questions, and I apologize for not being super clear, but we're going to be asking answering questions. Answering questions about the interview right now and then the job at the end, in the final Q, a, does that make sense? So it's a question about the interview. Go for it. If it's about the job. Well, don't worry. But there 100% is going to be time. I know. I feel like I know exactly. We're going to ask about visa sponsorship or location or something like that, right? Awesome. I'll, I'll answer all of those,
+
+Dmitry Shtainer  12:42
+explain the position first, like Absolutely. So
+
+Noah Casarotto-Dinning  12:45
+Dmitry, I'm going to be doing that at the end, and if you want, we could do that in the Q, a at the end. Does that make sense?
+
+Dmitry Shtainer  12:51
+Not really doesn't. Because, well, we want to learn about the position, absolutely, to learn about us, maybe, but then looking for us to learn about the company and the position,
+
+Noah Casarotto-Dinning  13:07
+definitely. So I'm going to be explaining stuff about the company, but I think for the for the Q, if you have questions about the position, everything was in the job description that you were provided, and what was I going to say, like, that's Q and A about what was I going to say about the job and stuff like that and stuff we'll be able to answer at the end. Does that make sense?
+
+JAY DANGAR  13:28
+Thank you. Noah, I have a question regarding the the legitimating of this interview and the company as well. Yeah, if you have mentioned that you wanted to gather as many people as possible, and since resume doesn't reflect, you know, all the ability of the people, you wanted to know each people, right? Why didn't you consider calling them up and screening the candidates before you, you know, gather them in one group and try to take trying to have a group interview.
+
+Noah Casarotto-Dinning  14:06
+Yeah, so, Jay, I understand there's some questions about you can
+
+JAY DANGAR  14:10
+you can also, you can also check the LinkedIn resume profile of each of the candidates that you know they are sending you the resumes. There's a standard process, right? I mean, you can call them up. You can screen like, based on their experience, whatever they're explaining. You can filter them out, and then you can probably, like, have a like, 10 candidates, and then you can basically,
+
+Noah Casarotto-Dinning  14:39
+Jay, I really do appreciate your feedback. However, this is an interview format that we've had for the past few months, and I recognize everyone's concern with it, but it's the way that we're going to run, and if there's things that you know you would like us to improve in the future, I'd be more than happy to do that in the future. Does that make sense? However, today, we do have a structured interview format that I would like to go over, and if you have comments on that, that's fine. You could send me an email. I'm more than happy. I want to make an interview process that everyone's comfortable with, by all means. And if you're not comfortable with it, that's fine, but you do not need to interrupt and interrupt the interview at the process that everyone else is trying to start the interview. Does that make sense? Like, if you have problems with it, that's fine, you know, you could email me after and then if you're more comfortable, we can have an interview process me and you one on one. However, if you have critiques about it in the middle of, kind of like the Q and A part, that's something that I would prefer you do outside of this environment. Does that make sense? And it's not because I don't want to improve it, and it's not because I don't understand where you're coming from, but I would like to get through with the process. If
+
+JAY DANGAR  15:49
+that makes sense, I think, I think you can go ahead. I'm not comfortable with this interview process to be honest, because there are a lot of scams going on. You might be right as well, but I don't want to be part of it. So thank you so much.
+
+Noah Casarotto-Dinning  16:02
+Have a wonderful day. Jay, you too. Bye, bye. If anyone else, I'm so sorry. This is the first time I've ever encountered a single issue, a single issue with this interview process. So I do, I do, formally apologize to everyone. By all means, if you have, if you have any problems at all, um, with the interview process, you can definitely leave right now. I'm nobody in the universe is forcing you to be here. Um, I'm sorry. I'm kind of getting mad. I'm like, Wow, I've never had that happen before. Yeah, that's that's
+
+Matthew Heguy  16:41
+coming across pretty strongly. Psych.
+
+Noah Casarotto-Dinning  16:43
+I'm so sorry. I do apologize, you know, but if anyone, if you're uncomfortable or you have any issues, I'm so sorry. And you can, you can email me personally, and I will make sure that you know, we resolve that. However, if and if you're not comfortable with this interview process, you can leave now, and that's okay, and we can email about it one on one, if you have any questions regarding anything else other than critiquing the interview process, I would love to answer those, but
+
+Dmitry Shtainer  17:21
+hey, I'm fantastically, how your work process organized in the company, in the interviewer, same way in the interview, like how many people developers working On the same task? Or
+
+Noah Casarotto-Dinning  17:40
+Absolutely, so I think questions about, you know, the job, as I'd said previously, Dmitry will answer at the end in a QA Does that make sense? But I do want to get forward with the process, so if you have a question about any of the evaluations that we're doing, does that make sense? I don't know. Okay, Dmitry, if you're not comfortable with it, it's okay and you can leave. Don't worry,
+
+Dmitry Shtainer  18:03
+I can stay.
+
+Noah Casarotto-Dinning  18:06
+That's fine. All right, but I do ask you not to open your mic without raising your hand so that we can continue with the process. Thank you very much. All right. Now, all right. Does anyone have any more questions about the interview, the interview today, outside interviews? Yeah, I don't think we're going to do that. Jesus Christ. Time wasted. Unfortunately. Yeah, thank you. Anyway, Matthew, please,
+
+Matthew Heguy  18:40
+yeah, just a quick question. You mentioned that you're hiring for multiple roles as part of this interview. Yes, okay, I don't know about anybody else. I only applied to one, so I guess maybe you'll cover what roles you're hiring for at the end, or yes,
+
+Noah Casarotto-Dinning  18:55
+so and so, basically, what we're doing is we had, kind of, like we're two roles that we're applying for, and we recognize, like we could probably it's there's a similar filtering mechanism that we're probably going to use for both of the roles. So we figured, why not do it in one interview, and then the subsequent interviews for both of those roles are going to be separate? Does that make sense? All right, that's fine. Thank you very much. Matthew, I appreciate that well, structured and pointed question in the future. Guys, thank you so much for this. I'm going to go ahead and get started with the first assessment that we're going to be doing today, and I'm probably gonna mute everyone. That's probably a better idea, but sorry about all that. So we have two two things that we're going to be doing today. Number one is kind of like an sgq test, which is just like a general intelligence test that is optional by all means, and we're not going to use this specific data to evaluate you as a candidate in this organization and you as an application candidate. The reason we want to start with this is just because it allows us to kind of acquire data about people and understand like, you know, what are correlated variables and what we can define as like a successful or unsuccessful candidate in the future, and if we hire someone and later on, we decide they're really successful candidate, we have data on like, Hey, this is something that contributed to this person being super successful, or this is something that maybe did not contribute to this person being incredibly successful. Does that make sense? Matthew, do you have any Matthew, you seem to
+
+Matthew Heguy  20:24
+no, sorry that you're saying that you're you're going to have us do a test that will not contribute to the hiring process. Yeah,
+
+Noah Casarotto-Dinning  20:33
+data is to acquire data in the future about a potential candidate. So it's like, let's say, like we hire you. And we were like, Okay, you were great, you know what? I mean, sure. So,
+
+Matthew Heguy  20:43
+so take the feedback as it is, but like, why don't you actually do that for people who are, like, you hire afterwards, because, like, their general IQ won't change, right?
+
+Noah Casarotto-Dinning  20:55
+Yeah, I just, I kind of want to have an unbiased assessment with it, if that makes sense, yeah. So I'm just kind of gonna hop right into it. If anyone has a problem, you know, you could leave. I'm so sorry. Yeah, Jesus Christ. Okay. So you know what? I.
+
+
+Transcribed by https://otter.ai
